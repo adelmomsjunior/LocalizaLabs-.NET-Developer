@@ -1,0 +1,16 @@
+C:\Users\junin\Documents\PastaGit\BootLocaliza\appbanco\bin\Debug\net5.0\appbanco.exe
+C:\Users\junin\Documents\PastaGit\BootLocaliza\appbanco\bin\Debug\net5.0\appbanco.deps.json
+C:\Users\junin\Documents\PastaGit\BootLocaliza\appbanco\bin\Debug\net5.0\appbanco.runtimeconfig.json
+C:\Users\junin\Documents\PastaGit\BootLocaliza\appbanco\bin\Debug\net5.0\appbanco.runtimeconfig.dev.json
+C:\Users\junin\Documents\PastaGit\BootLocaliza\appbanco\bin\Debug\net5.0\appbanco.dll
+C:\Users\junin\Documents\PastaGit\BootLocaliza\appbanco\bin\Debug\net5.0\ref\appbanco.dll
+C:\Users\junin\Documents\PastaGit\BootLocaliza\appbanco\bin\Debug\net5.0\appbanco.pdb
+C:\Users\junin\Documents\PastaGit\BootLocaliza\appbanco\obj\Debug\net5.0\appbanco.csproj.AssemblyReference.cache
+C:\Users\junin\Documents\PastaGit\BootLocaliza\appbanco\obj\Debug\net5.0\appbanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junin\Documents\PastaGit\BootLocaliza\appbanco\obj\Debug\net5.0\appbanco.AssemblyInfoInputs.cache
+C:\Users\junin\Documents\PastaGit\BootLocaliza\appbanco\obj\Debug\net5.0\appbanco.AssemblyInfo.cs
+C:\Users\junin\Documents\PastaGit\BootLocaliza\appbanco\obj\Debug\net5.0\appbanco.csproj.CoreCompileInputs.cache
+C:\Users\junin\Documents\PastaGit\BootLocaliza\appbanco\obj\Debug\net5.0\appbanco.dll
+C:\Users\junin\Documents\PastaGit\BootLocaliza\appbanco\obj\Debug\net5.0\ref\appbanco.dll
+C:\Users\junin\Documents\PastaGit\BootLocaliza\appbanco\obj\Debug\net5.0\appbanco.pdb
+C:\Users\junin\Documents\PastaGit\BootLocaliza\appbanco\obj\Debug\net5.0\appbanco.genruntimeconfig.cache

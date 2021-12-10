@@ -1,0 +1,16 @@
+C:\Users\junin\Desktop\Nova pasta\Locadora\bin\Debug\net5.0\Locadora.exe
+C:\Users\junin\Desktop\Nova pasta\Locadora\bin\Debug\net5.0\Locadora.deps.json
+C:\Users\junin\Desktop\Nova pasta\Locadora\bin\Debug\net5.0\Locadora.runtimeconfig.json
+C:\Users\junin\Desktop\Nova pasta\Locadora\bin\Debug\net5.0\Locadora.runtimeconfig.dev.json
+C:\Users\junin\Desktop\Nova pasta\Locadora\bin\Debug\net5.0\Locadora.dll
+C:\Users\junin\Desktop\Nova pasta\Locadora\bin\Debug\net5.0\ref\Locadora.dll
+C:\Users\junin\Desktop\Nova pasta\Locadora\bin\Debug\net5.0\Locadora.pdb
+C:\Users\junin\Desktop\Nova pasta\Locadora\obj\Debug\net5.0\Locadora.csproj.AssemblyReference.cache
+C:\Users\junin\Desktop\Nova pasta\Locadora\obj\Debug\net5.0\Locadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junin\Desktop\Nova pasta\Locadora\obj\Debug\net5.0\Locadora.AssemblyInfoInputs.cache
+C:\Users\junin\Desktop\Nova pasta\Locadora\obj\Debug\net5.0\Locadora.AssemblyInfo.cs
+C:\Users\junin\Desktop\Nova pasta\Locadora\obj\Debug\net5.0\Locadora.csproj.CoreCompileInputs.cache
+C:\Users\junin\Desktop\Nova pasta\Locadora\obj\Debug\net5.0\Locadora.dll
+C:\Users\junin\Desktop\Nova pasta\Locadora\obj\Debug\net5.0\ref\Locadora.dll
+C:\Users\junin\Desktop\Nova pasta\Locadora\obj\Debug\net5.0\Locadora.pdb
+C:\Users\junin\Desktop\Nova pasta\Locadora\obj\Debug\net5.0\Locadora.genruntimeconfig.cache

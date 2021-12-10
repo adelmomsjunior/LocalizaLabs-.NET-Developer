@@ -1,0 +1,16 @@
+C:\Users\junin\Documents\PastaGit\BootLocaliza\desafioaritmetico\desafio5\bin\Debug\net5.0\desafio5.exe
+C:\Users\junin\Documents\PastaGit\BootLocaliza\desafioaritmetico\desafio5\bin\Debug\net5.0\desafio5.deps.json
+C:\Users\junin\Documents\PastaGit\BootLocaliza\desafioaritmetico\desafio5\bin\Debug\net5.0\desafio5.runtimeconfig.json
+C:\Users\junin\Documents\PastaGit\BootLocaliza\desafioaritmetico\desafio5\bin\Debug\net5.0\desafio5.runtimeconfig.dev.json
+C:\Users\junin\Documents\PastaGit\BootLocaliza\desafioaritmetico\desafio5\bin\Debug\net5.0\desafio5.dll
+C:\Users\junin\Documents\PastaGit\BootLocaliza\desafioaritmetico\desafio5\bin\Debug\net5.0\ref\desafio5.dll
+C:\Users\junin\Documents\PastaGit\BootLocaliza\desafioaritmetico\desafio5\bin\Debug\net5.0\desafio5.pdb
+C:\Users\junin\Documents\PastaGit\BootLocaliza\desafioaritmetico\desafio5\obj\Debug\net5.0\desafio5.csproj.AssemblyReference.cache
+C:\Users\junin\Documents\PastaGit\BootLocaliza\desafioaritmetico\desafio5\obj\Debug\net5.0\desafio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junin\Documents\PastaGit\BootLocaliza\desafioaritmetico\desafio5\obj\Debug\net5.0\desafio5.AssemblyInfoInputs.cache
+C:\Users\junin\Documents\PastaGit\BootLocaliza\desafioaritmetico\desafio5\obj\Debug\net5.0\desafio5.AssemblyInfo.cs
+C:\Users\junin\Documents\PastaGit\BootLocaliza\desafioaritmetico\desafio5\obj\Debug\net5.0\desafio5.csproj.CoreCompileInputs.cache
+C:\Users\junin\Documents\PastaGit\BootLocaliza\desafioaritmetico\desafio5\obj\Debug\net5.0\desafio5.dll
+C:\Users\junin\Documents\PastaGit\BootLocaliza\desafioaritmetico\desafio5\obj\Debug\net5.0\ref\desafio5.dll
+C:\Users\junin\Documents\PastaGit\BootLocaliza\desafioaritmetico\desafio5\obj\Debug\net5.0\desafio5.pdb
+C:\Users\junin\Documents\PastaGit\BootLocaliza\desafioaritmetico\desafio5\obj\Debug\net5.0\desafio5.genruntimeconfig.cache
